@@ -1,6 +1,6 @@
 # Web Store
-
-A simple store with cart and checkout functionality developed using rails.
+[Agile Web Development with Rails 5]
+A simple store with cart and checkout functionality developed using rails. 
 
 <h3>Store Index</h3>
 <img src="http://i.imgur.com/9Sq23dQ.png">
