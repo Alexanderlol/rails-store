@@ -1,24 +1,14 @@
-# README
+# Web Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple store with cart and checkout functionality developed using rails.
 
-Things you may want to cover:
+<h3>Store Index</h3>
+<img src="http://i.imgur.com/9Sq23dQ.png">
 
-* Ruby version
+<h3>Cart<h3>
+<p>Uses Ajax to render cart partial and line item on the store index.</p>
+<img src="http://i.imgur.com/gi0D8j5.png">
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h3>Yellow Fade Effect</h3>
+<p>Uses JQuery-UI blind effect to direct the users attention to the cart</p>
+<img src="http://i.imgur.com/wZzztSg.png">
